@@ -1,0 +1,26 @@
+body{
+ background-color:#B9FFF8
+}
+h1{
+  color: #FF4A4A;
+  font-size: 50px;
+}
+h2{
+    color: #FF4A4A
+}
+h3{
+  color: #FF4A4A
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: orange;
+  border-width: 5px;
+  width: 10%;
+  position: relative;right: 0
+}
+/****class tag*****/
+.contact{
+  position: relative;right: 40%;
+  border-color:grey
+}
